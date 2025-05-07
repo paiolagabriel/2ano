@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Qual periodo foi a revolução francesa?',
+    '5 de maio de 1789 até 9 de novembro de 1799'
 )
 
 criaCartao(
@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Lingua Portuguesa',
+    'Quais são os quatros porquês da lingua Portuguesa',
+    'Porque, Por que, Porquê, e Por quê.'
 )
 
 criaCartao(
