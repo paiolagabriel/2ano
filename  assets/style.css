@@ -1,6 +1,23 @@
 body {
     blackground-color: bisque;
+    font-family: Bai jamjuree;
 }
+
+#container {
+    display: flex;
+}
+
+.cartao {
+    margin: Irem Irem;
+}
+
+
+
+
+
+
+
+
 
 footer {
     blackground-color: black;
@@ -8,4 +25,11 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    height: 2rem;
+}
+
+footer p {
+    text-align: center;
+    font-size: 0.6rem;
+    margin-top: 0.5rem;
 }
